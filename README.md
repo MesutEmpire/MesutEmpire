@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel Wainaina</h1>
-<h3 align="center">A passionate Full-stack developer from Kenya.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mesutempire&label=Profile%20views&color=0e75b6&style=flat" alt="mesutempire" /> </p>
+# 💫 About Me:
+As a passionate and driven software developer, I am always striving to improve my skills and take on new challenges. With a strong foundation in data structures, algorithms, and various programming languages, I am determined to make a positive impact in the world through technology. Whether working as a team member or independently, I am committed to delivering exceptional results and continuously pushing myself to reach new heights. With a thirst for knowledge and a love for problem-solving, I am eager to continue learning and growing in the field of software development. My ultimate goal is to make a lasting impact through my work and to use my skills and expertise to create meaningful and innovative solutions that improve people's lives.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mesutempire" alt="mesutempire" /></a> </p>
 
 - 🔭 I’m currently working on **E-Cart**
 
