@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mesut Empire</h1>
+<!-- <h1 align="center">Hi 👋, I'm Mesut Empire</h1> -->
 
-# 💫 About Me:
+<!-- # 💫 About Me:
 As a passionate and driven software developer, I am always striving to improve my skills and take on new challenges. With a strong foundation in data structures, algorithms, and various programming languages, I am determined to make a positive impact in the world through technology. Whether working as a team member or independently, I am committed to delivering exceptional results and continuously pushing myself to reach new heights. With a thirst for knowledge and a love for problem-solving, I am eager to continue learning and growing in the field of software development. My ultimate goal is to make a lasting impact through my work and to use my skills and expertise to create meaningful and innovative solutions that improve people's lives.
 
 
@@ -31,7 +31,7 @@ As a passionate and driven software developer, I am always striving to improve m
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesutempire&show_icons=true&locale=en" alt="mesutempire" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mesutempire&" alt="mesutempire" /></p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ -->
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
